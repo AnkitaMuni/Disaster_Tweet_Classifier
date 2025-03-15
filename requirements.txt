@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+nltk
+matplotlib
+seaborn
+streamlit
+transformers
+tensorflow
+requests
+pytesseract
+Pillow

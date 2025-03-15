@@ -1,0 +1,2 @@
+python train_model.py
+python -m streamlit run app.py

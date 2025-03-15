@@ -1,0 +1,181 @@
+","""Just watched a movie about volcanoes. The special effects were amazing!""",Not disaster-related,Not disaster-related,Yes
+,,,,,"""It's raining so much today. I hate this weather!""
+
+
+
+","""It's raining so much today. I hate this weather!""",Not disaster-related,Not disaster-related,Yes
+,,,,,"""I feel like I'm drowning in work today. So overwhelmed!""
+
+
+
+
+","""I feel like I'm drowning in work today. So overwhelmed!""",Not disaster-related,Not disaster-related,Yes
+,,,,,"""Inondations à Paris. Les habitants sont priés de quitter la zone.""
+
+
+
+
+","""Floods in Paris. The inhabitants are asked to leave the area.""",Disaster-related,Disaster-related,Yes
+,,,,,"""Terremoto en Santiago. Se reportan daños en edificios y cortes de electricidad.""
+
+
+
+
+
+","""Earthquake in Santiago. Damage to buildings and electricity cuts are reported.""",Disaster-related,Disaster-related,Yes
+,,,,,"""Floods in Kerala.""
+
+
+
+
+
+","""Floods in Kerala.""",Not disaster-related,Not disaster-related,No
+,,,,,"""🚨 Emergency! Volcano eruption near Taal. Please evacuate immediately! 🌋""
+
+
+
+
+
+
+","""🚨 Emergency! Volcano eruption near Taal. Please evacuate immediately! 🌋""",Disaster-related,Not disaster-related,No
+,,,,,"""Cyclone hitting QLD. Stay safe everyone!""
+
+
+
+
+
+
+
+","""Cyclone hitting QLD. Stay safe everyone!""",Not disaster-related,Not disaster-related,No
+,,,,,"""There’s smoke everywhere. Is it a fire or just fog?""
+
+
+
+
+
+
+
+","""There’s smoke everywhere. Is it a fire or just fog?""",Not disaster-related,Not disaster-related,Yes
+,,,,,"""Wildfire season is approaching. Hope everyone is prepared!""
+
+
+
+
+
+
+
+
+","""Wildfire season is approaching. Hope everyone is prepared!""",Not disaster-related,Not disaster-related,Yes
+,,,,,"""Just saw a documentary about tsunamis. It was so scary!""
+
+
+
+
+
+
+
+
+","""Just saw a documentary about tsunamis. It was so scary!""",Not disaster-related,Not disaster-related,Yes
+,,,,,"""OMG, there's a storm coming! #StaySafe""
+
+
+
+
+
+
+
+
+
+","""OMG, there's a storm coming! #StaySafe""",Not disaster-related,Not disaster-related,Yes
+,,,,,"""Feeling so stressed today. Everything feels like it's falling apart.""
+
+
+
+
+
+
+
+
+
+
+","""Feeling so stressed today. Everything feels like it's falling apart.""",Not disaster-related,Not disaster-related,Yes
+,,,,,"""Earthquake drill at school today. Everyone stayed calm.""
+
+
+
+
+
+
+
+
+
+
+
+","""Earthquake drill at school today. Everyone stayed calm.""",Not disaster-related,Not disaster-related,Yes
+,,,,,"""Fire alarm went off at work. False alarm, thankfully!""
+
+
+
+
+
+
+
+
+
+
+
+","""Fire alarm went off at work. False alarm, thankfully!""",Not disaster-related,Not disaster-related,Yes
+,,,,,"ประเทศไทยเผชิญกับพายุไต้ฝุ่น ประชาชนได้รับคำเตือนให้อยู่ในบ้าน
+
+
+
+
+
+
+
+
+
+
+
+
+",Thailand faces typhoon.The people were warned to stay in the house.,Disaster-related,Disaster-related,Yes
+,,,,,"LOL, my friend said there’s a tsunami coming. As if!
+
+
+
+
+
+
+
+
+
+
+
+","LOL, my friend said there’s a tsunami coming. As if!",Not disaster-related,Not disaster-related,Yes
+,,,,,"दिल्ली में बाढ़ की स्थिति गंभीर है। लोगों को चेतावनी दी गई है।
+
+
+
+
+
+
+
+
+
+
+
+",The flood situation in Delhi is critical.People have been warned.,Not disaster-related,Not disaster-related,No
+,,,,,"Uma enchente devastadora está ocorrendo em São Paulo. Equipes de resgate estão a caminho.
+
+
+
+
+
+
+
+
+
+
+
+
+",A devastating flood is occurring in São Paulo.Rescue teams are on their way.,Disaster-related,Disaster-related,Yes
